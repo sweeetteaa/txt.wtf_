@@ -15,14 +15,14 @@ A modern, lightweight, and feature-rich UI library for Roblox exploiting.
 ## Installation
 
 ```lua
-local Library = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local Library = loadstring(game:HttpGet("https://github.com/sweeetteaa/ahehienanjiwi/blob/main/library.lua"))()
 ```
 
 ## Quick Start
 
 ```lua
 -- Load the library
-local Library = loadstring(game:HttpGet("your-url-here"))()
+local Library = loadstring(game:HttpGet("https://github.com/sweeetteaa/ahehienanjiwi/blob/main/library.lua"))()
 
 -- Create a window
 local Window = Library:CreateWindow({
